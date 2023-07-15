@@ -1,0 +1,7 @@
+1 presentation: ui
+2 application: use cases
+3 domain: business logic
+4 persistance: interface to database
+5 infrastructure: os and 3rd parties
+6 common: aspect all project depends on
+7 specification:ç test
